@@ -20,6 +20,7 @@
     NSLog(@"application did finish launching");
     NSLog(@"application did finish launching 2");
     NSLog(@"application did finish launching 3");
+    NSLog(@"application did finish launching -master local");
     return YES;
 }
 
